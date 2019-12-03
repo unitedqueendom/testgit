@@ -1,1 +1,1 @@
-# testgit
+Just wanna test out if github and terminal work well.
